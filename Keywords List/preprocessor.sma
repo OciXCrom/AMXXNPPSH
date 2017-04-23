@@ -1,0 +1,17 @@
+#assert
+#define
+#else
+#elseif
+#emit
+#endif
+#endinput
+#endscript
+#if
+#include
+#pragma
+#tryinclude
+#undef
+ctrlchar
+defined
+dynamic
+semicolon
