@@ -12,6 +12,7 @@ goto
 if
 inline
 return
+sizeof
 switch
 true
 typeof
