@@ -1,7 +1,6 @@
 break
 case
 charsmax
-Client
 continue
 default
 do
@@ -10,10 +9,8 @@ false
 for
 goto
 if
-inline
 return
 sizeof
 switch
 true
-typeof
 while
